@@ -6,3 +6,4 @@ About Tutorials and programming exercises for learning Quantum Computing by QSil
 - https://drive.google.com/drive/folders/1PjGPswlw7d6xv5UaeyjCxnx7LUISMj1J
 - https://docs.google.com/document/d/1a72oM1euYlalN3v0VGtKIxKl6Z3crNA0zg8R7Dm4yBA/edit
 - https://gitlab.com/qworld/silver
+- https://drive.google.com/drive/folders/1jGji_daB73P_YltI4xBmWGfRO04DlBhy
